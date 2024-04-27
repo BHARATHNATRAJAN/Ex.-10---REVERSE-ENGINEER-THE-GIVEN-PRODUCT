@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+![Screenshot 2024-04-27 135755](https://github.com/BHARATHNATRAJAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147473529/4bdf2e4c-5dcd-4013-be8d-8193bc27633d)# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -26,17 +26,21 @@
   ###   ●	Place your Pen drive in USB.
   ###   ●	Clean your surface bed plate.
   ###   ●	Load your filament into the required extruder as per the requirement.
-  ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
+        ●	Wait until the nozzle & bed plate comes into the required temperature.
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
+## Input      
+![Screenshot 2024-04-27 135755](https://github.com/BHARATHNATRAJAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147473529/8e672e79-529b-4e5c-a81f-0db667a6a66a)
+:
 
-### Output:
+### Outpu 
+![Screenshot 2024-04-27 135712](https://github.com/BHARATHNATRAJAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147473529/b8e38dfc-6490-4f66-8761-5eb4aa241ade)
+t:
 
 
-### Name:
-### Register Number:
+### Name:BHARATH.N
+### Register Number:212223230030
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
