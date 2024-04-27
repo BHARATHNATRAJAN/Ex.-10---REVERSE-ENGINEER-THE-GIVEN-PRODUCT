@@ -1,6 +1,4 @@
-![Screenshot 2024-04-27 135755](https://github.com/BHARATHNATRAJAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147473529/4bdf2e4c-5dcd-4013-be8d-8193bc27633d)# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
